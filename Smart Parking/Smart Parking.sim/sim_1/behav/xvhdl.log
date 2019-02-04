@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/negfi/Documents/AUT/5thSemester/DigitalDesignAutomation/Project/Phaze1/Smart Parking/Smart Parking.srcs/sources_1/new/Smart_Parking.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Smart_Parking
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/negfi/Documents/AUT/5thSemester/DigitalDesignAutomation/Project/Phaze1/Smart Parking/Smart Parking.srcs/sim_1/new/Test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Test

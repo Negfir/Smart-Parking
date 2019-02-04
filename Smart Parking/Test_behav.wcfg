@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Test" />
+            <top_module name="mypackage" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="577500001fs"></ZoomEndTime>
+      <Cursor1Time time="5418750000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="13" />
+   <wvobject db_ref_id="1" fp_name="/Test/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/ready" type="logic">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/Insertion_Command" type="array">
+      <obj_property name="ElementShortName">Insertion_Command[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Insertion_Command[31:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/lamps" type="array">
+      <obj_property name="ElementShortName">lamps[5:0]</obj_property>
+      <obj_property name="ObjectShortName">lamps[5:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/Plate" type="array">
+      <obj_property name="ElementShortName">Plate[0:4]</obj_property>
+      <obj_property name="ObjectShortName">Plate[0:4]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/SP/CURS" type="other">
+      <obj_property name="ElementShortName">CURS</obj_property>
+      <obj_property name="ObjectShortName">CURS</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/SP/NEXTS" type="other">
+      <obj_property name="ElementShortName">NEXTS</obj_property>
+      <obj_property name="ObjectShortName">NEXTS</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/SP/arr_size" type="other">
+      <obj_property name="ElementShortName">arr_size</obj_property>
+      <obj_property name="ObjectShortName">arr_size</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/SP/found" type="other">
+      <obj_property name="ElementShortName">found</obj_property>
+      <obj_property name="ObjectShortName">found</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/SP/Flag" type="logic">
+      <obj_property name="ElementShortName">Flag</obj_property>
+      <obj_property name="ObjectShortName">Flag</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/SP/FlagNew" type="logic">
+      <obj_property name="ElementShortName">FlagNew</obj_property>
+      <obj_property name="ObjectShortName">FlagNew</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Test/SP/arr" type="array">
+      <obj_property name="ElementShortName">arr[0:99]</obj_property>
+      <obj_property name="ObjectShortName">arr[0:99]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
